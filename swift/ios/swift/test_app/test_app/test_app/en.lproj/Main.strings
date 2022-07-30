@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "2I4-ZP-laY"; */
+"2I4-ZP-laY.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2I4-ZP-laY"; */
+"2I4-ZP-laY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "%"; ObjectID = "608-fO-GsD"; */
+"608-fO-GsD.configuration.title" = "%";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "608-fO-GsD"; */
+"608-fO-GsD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "GSc-bi-gDr"; */
+"GSc-bi-gDr.text" = "10";
+
+/* Class = "UIButton"; configuration.title = "x"; ObjectID = "JfP-x0-8qc"; */
+"JfP-x0-8qc.configuration.title" = "x";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JfP-x0-8qc"; */
+"JfP-x0-8qc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "SK1-Yx-l8D"; */
+"SK1-Yx-l8D.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SK1-Yx-l8D"; */
+"SK1-Yx-l8D.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "Shb-UY-oqY"; */
+"Shb-UY-oqY.text" = "10";
+
+/* Class = "UILabel"; text = "계산기"; ObjectID = "cnZ-2C-E1W"; */
+"cnZ-2C-E1W.text" = "계산기";
